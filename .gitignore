@@ -1,0 +1,8 @@
+OC/Config.plist
+OC/oldConfig.plist
+OC/._*
+OC/.contentVisibility
+OC/.contentFlavour
+APPLE/*
+OC/Kexts/._*
+OC/Kexts/*.zip
